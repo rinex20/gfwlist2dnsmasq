@@ -13,8 +13,8 @@ import shutil
 import ssl
  
 mydnsip = '127.0.0.1'
-mydnsport = '5353'
-ipsetname = 'gfwlist'
+mydnsport = '5300'
+ipsetname = 'ss_spec_dst_fw'
 # Extra Domain;
 EX_DOMAIN=[ \
 '.google.com', \
